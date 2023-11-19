@@ -12,6 +12,8 @@ php artisan db:seed
 php artisan site-map-generate
 ```
 
+[app/Console/Commands/SiteMapGenerate.php](https://github.com/nAa6666/laravel-sitemap/blob/main/app/Console/Commands/SiteMapGenerate.php)
+
 ```
 Start generating sitemap...
 Categories count: 50
